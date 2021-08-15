@@ -54,7 +54,7 @@ void UserData::writeToProperty(std::string Property, std::string Replacement){
     file2 << changed;
     file2.close();
 }
-void createProperty(std::string Property, std::string Replacement){
+void UserData::createProperty(std::string Property, std::string Value){
   	std::ofstream file(this->path);
     file << Property + ": " + Value + "\n";
     file.close();
