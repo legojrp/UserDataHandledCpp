@@ -5,10 +5,10 @@ Just read the overall file  of UserDate.cpp.
 
 # Update of continuation- 8/25/21-21:46 (GMT)
 UserDataHandlerCpp is no longer being updated. It is though bring merged into a new system, CLAM.  
-- C
-- L
-- A
-- M
+- Cross
+- pLatform - Multiple languages and most C++ compiler support.
+- dAta - stores data in .clam files.
+- Manipulation - allows for editing and deleting properties.
 #### Q&A
 ?: When I switch scopes, how is my progress saved?
 A: It is saved through the file path you create.  
