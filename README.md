@@ -3,7 +3,12 @@ Handles user data, into a file, with methods of saving and create data and other
 # How to use 
 Just read the overall file  of UserDate.cpp.
 
-
+# Update of continuation- 8/25/21-21:46 (GMT)
+UserDataHandlerCpp is no longer being updated. It is though bring merged into a new system, CLAM.  
+- C
+- L
+- A
+- M
 #### Q&A
 ?: When I switch scopes, how is my progress saved?
 A: It is saved through the file path you create.  
