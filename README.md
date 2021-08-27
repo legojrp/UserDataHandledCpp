@@ -13,7 +13,7 @@ UserDataHandlerCpp is no longer being updated. It is though bring merged into a 
 ?: When I switch scopes, how is my progress saved?
 A: It is saved through the file path you create.  
 ?: Any updates?
-A: It is currently active yet small time it alloted to it.   
+A: It is currently active yet small time it alloted to it.  Update: Moved to CLAM
 ?: New things planned?
 A: Yes, like changing file types, to .clam for Cross pLatform dAta Manipulation  
 ?:What characters can make it error out?
